@@ -1,5 +1,5 @@
-#Brain-Tumor-Classification
-#This project applies deep learning techniques to classify brain tumors from MRI images using Convolutional Neural Networks (CNNs). It includes preprocessing, model building, training, and evaluation steps all within a single Jupyter Notebook.
+Brain-Tumor-Classification
+This project applies deep learning techniques to classify brain tumors from MRI images using Convolutional Neural Networks (CNNs). It includes preprocessing, model building, training, and evaluation steps all within a single Jupyter Notebook.
 
 🧠 Overview
 Built with TensorFlow and Keras.
